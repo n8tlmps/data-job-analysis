@@ -8,6 +8,3 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Data (optional but recommended)
-data/
